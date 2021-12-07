@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #ccc;
+	text-align: center;
+	padding: 3em;
+}
+
+footer {
+	background-color: #ccc;
+	text-align: center;
+	padding: 3em;
+}
+
+.formm {
+	text-align: center;
+	margin: 10em;
+}
+
+h1 {
+	text-align: center;
+}
